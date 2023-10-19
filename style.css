@@ -1,0 +1,11 @@
+.display-name, .profile-name {
+    --buttonColor: #3d3d3d;
+    flex: none;
+    font-weight: 500;
+    margin-right: auto;
+    position: relative;
+    z-index: 9;
+}
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
